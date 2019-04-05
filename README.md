@@ -6,8 +6,10 @@ The project has two parts:
   kindly, see documentaion file for mor detailes.
   
 # Collaboration and Contribution  
-If you want to make tool better and have an impact, your help is very welcome. Visual User interface could be enhanced and more advanced and recent NLP technologies could be integrated. 
+If you want to make tool better and have an impact, your help is very welcome. 
+Visual User interface could be enhanced and more advanced and recent NLP technologies could be integrated. 
 
 If you have questions, Kindly contact me at my email: alaabuthawabeh at gmail dot com
+
 
 
